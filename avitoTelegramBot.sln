@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "avitoTelegramBot", "avitoTelegramBot.csproj", "{03AEEC2B-6AE2-45A8-8A7C-D801DE24DE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03AEEC2B-6AE2-45A8-8A7C-D801DE24DE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03AEEC2B-6AE2-45A8-8A7C-D801DE24DE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03AEEC2B-6AE2-45A8-8A7C-D801DE24DE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03AEEC2B-6AE2-45A8-8A7C-D801DE24DE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9B02941-3577-4BB4-A99E-BAD647117339}
+	EndGlobalSection
+EndGlobal
