@@ -26,7 +26,7 @@ namespace avitoTelegramBot
 
         public BotService()
         {
-            botClient = new TelegramBotClient("8105915366:AAFFQ73-fDgR79QAVcaoS4kLYp-s55RL4iY");
+            botClient = new TelegramBotClient("ТОКЕН вставить");
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
